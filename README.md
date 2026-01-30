@@ -17,7 +17,7 @@ It applies unsupervised machine learning techniques to millions of real-world sa
 ---
 
 ## Dataset
-- **Source:** FDA Adverse Event Reporting System (FAERS)
+- **Source:** https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html
 - **Raw Size:** ~15 GB (quarterly ASCII releases)
 - **Processed Size:** ~619 MB (model-ready dataset)
 - **Tables Used:** DEMO, DRUG, REAC, OUTC, INDI
